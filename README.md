@@ -11,4 +11,4 @@ Projeto pessoal com o objetivo de implementar o que vou aprendendo
 ## Exemplo
 
 <img src="./readme-img-1.gif" width="850" height="480">
-<img src="./readme-img-2.png" width="850" height="480">
+<img src="./readme-img-2.png" width="428" height="926">
